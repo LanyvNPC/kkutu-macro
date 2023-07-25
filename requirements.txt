@@ -1,0 +1,7 @@
+tkinter
+json
+pyperclip
+time
+threading
+pyautogui
+keyboard
